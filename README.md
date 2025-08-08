@@ -18,7 +18,7 @@ This Python-based project analyzes the emerging trends in Task Force Nature-rela
   - Unconvertible PDFs (marked "0")
 
 ### Phase 2: Trend Analysis (Generating Word Cloud)
-- Tool: [wordcloud.ipynb](https://github.com/nichosimanjuntak/Analyzing-TNFD-Trend/blob/main/wordcloud.ipynb) processes all TXT files:
+- Tool: [wordcloud.ipynb](https://github.com/nichosimanjuntak/Analyzing-TNFD-Trend/blob/main/wordcloud.ipynb) processes all TXT files
   1. Clean text: remove stopwords, punctuations, and short words
   2. Extraction: Count word frequency
   3. Vizualisation: Generate word clouds where font size reflects word frequency
