@@ -8,12 +8,9 @@ This Python-based project analyzes the emerging trends in Task Force Nature-rela
 ## Workflow
 ### Phase 1: Preprocessing (PDF to TxT)
 - Input: TNFD (or similar type) reports manually downloaded from [TNFD Global Website](https://tnfd.global/knowledge-hub/example-tnfd-reporting/).
-
 - Tool: [convert_txt.ipynb](https://github.com/nichosimanjuntak/Analyzing-TNFD-Trend/blob/main/convert_txt.ipynb)
 *Raw code was provided by Prof. Zoey, then modified to make it align with the website's PDF and desired TxT 
-
-- Output: [Database Folder](https://drive.google.com/file/d/1AsY9r6aolIHtvmYe54aZPCx8qq2mJ0HV/view?usp=share_link) consist of all raw PDFs and converted TXTs and
-  [PDFandTXT.xlsx](https://github.com/nichosimanjuntak/Analyzing-TNFD-Trend/blob/main/PDFandTXT.xlsx) report for successful conversion.
+- Output: [Database Folder](https://drive.google.com/file/d/1AsY9r6aolIHtvmYe54aZPCx8qq2mJ0HV/view?usp=share_link) consist of all raw PDFs and converted TXTs and [PDFandTXT.xlsx](https://github.com/nichosimanjuntak/Analyzing-TNFD-Trend/blob/main/PDFandTXT.xlsx) report for successful conversion
   - Converted TXTs (marked "1")
   - Unconvertible PDFs (marked "0")
 
@@ -23,6 +20,13 @@ This Python-based project analyzes the emerging trends in Task Force Nature-rela
   2. Extraction: Count word frequency
   3. Vizualisation: Generate word clouds where font size reflects word frequency
 
+## Output
+<img src="https://github.com/nichosimanjuntak/Analyzing-TNFD-Trend/blob/main/Output.png">
 
 
+*The resulting image may be differ every run but the reflected word will be more or less the same.*
+
+## Acknowledgments
+- Professor Zoey for guidance, instruction, assistance
+- All reports are online available at TNFD global websites
 
