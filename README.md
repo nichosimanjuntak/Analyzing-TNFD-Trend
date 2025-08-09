@@ -21,6 +21,7 @@ This Python-based project analyzes the emerging trends in Task Force Nature-rela
   3. Vizualisation: Generate word clouds where font size reflects word frequency
 
 ## Output
+#### Top terms like "climate", "sustainability", "management" reflect 2023-2025 TNFD focus areas.
 <img src="https://github.com/nichosimanjuntak/Analyzing-TNFD-Trend/blob/main/Output.png">
 
 
